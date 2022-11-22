@@ -1,6 +1,6 @@
 <?php
 
-define("DB_HOST", "db-hostane");
+define("DB_HOST", "db-hostname");
 define("DB_USER", "root");
 define("DB_PASSWORD", "password123");
 define("DB_DATABASE", "php_mysql_crud");
